@@ -20,6 +20,12 @@ export * from './create';
 export * from './card';
 
 /**
+ * Getter stuffs
+ */
+
+export * from './getters';
+
+/**
  * General function stuffs
  */
 export * from './functions';
